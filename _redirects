@@ -1,0 +1,7 @@
+# Netlify redirects — keep older URLs from the GitHub Pages era resolving.
+# Also accept both trailing-slash and non-trailing-slash variants.
+
+/privacy      /privacy/      301
+/terms        /terms/        301
+/support      /support/      301
+/appstore     https://apps.apple.com/app/id6806141163   302
